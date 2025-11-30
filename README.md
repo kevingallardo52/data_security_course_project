@@ -19,3 +19,8 @@
 #### import torch.nn.functional as F
 
 ### When you download the code just run python file. Close any graph pop ups to let code continue executing and you will see the results on terminal.
+
+##### Run one of these commands depending on your setup: replace {library name} with the library that you need to install
+##### Example: pip install plotly
+##### - If you’re using pip:
+##### pip install {library name}
